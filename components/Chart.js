@@ -5,6 +5,7 @@ const ApexChart = dynamic(() => import("react-apexcharts"), { ssr: false });
 const ChartDiv = styled.div`
     width: 25vw;
     height: 20vh;
+
 `
 
 export default function Chart(){
