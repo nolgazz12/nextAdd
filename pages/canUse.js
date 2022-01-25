@@ -89,9 +89,7 @@ export default function CanUse() {
         </UseDiv>
 
         </SectionDiv>
-        <div>
-            <CopyP />
-            </div>
+        
         </>
         )
 }

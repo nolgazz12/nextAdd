@@ -46,9 +46,7 @@ export default function Contact() {
                 </ConInfoDiv>
             <Email />
             </ContactDiv>
-            <div>
-            <CopyP />
-            </div>
+           
         </>
         )
 }

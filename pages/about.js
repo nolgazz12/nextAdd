@@ -107,9 +107,6 @@ export default function About() {
                     </p>
                 </SecSection>
             </AllChartDiv>
-                <div>
-                <CopyP />
-                </div>
         </>
         )
     }
